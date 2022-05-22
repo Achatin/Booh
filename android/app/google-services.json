@@ -1,0 +1,40 @@
+{
+  "project_info": {
+    "project_number": "856620146424",
+    "firebase_url": "https://booh-b57f1-default-rtdb.europe-west1.firebasedatabase.app",
+    "project_id": "booh-b57f1",
+    "storage_bucket": "booh-b57f1.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:856620146424:android:034b7a847378adf308650d",
+        "android_client_info": {
+          "package_name": "com.example.boo"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "856620146424-92l3nbo5uc8c0s6n4o2qgdsar8d3smb3.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDrO_-qtINWpW-EGW8C_sHYOpL5jYGKQQk"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "856620146424-92l3nbo5uc8c0s6n4o2qgdsar8d3smb3.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
